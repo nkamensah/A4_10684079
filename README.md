@@ -1,2 +1,2 @@
 # A4_10684079
-Finding the GCF of two numbers.
+To find the GCD of two numbers using the Euclidean Algorithm with recursion.
